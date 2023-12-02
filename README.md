@@ -1,3 +1,3 @@
 #Sync_Code
-Not Deployed yet.
-But working perfectly on local.
+Fully Deployed
+and working perfectly.
